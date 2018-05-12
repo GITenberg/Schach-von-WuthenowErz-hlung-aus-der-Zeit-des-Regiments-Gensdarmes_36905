@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Theodor_Fontane
     - http://de.wikipedia.org/wiki/Theodor_Fontane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36905#Schach-von-WuthenowErz-hlung-aus-der-Zeit-des-Regiments-Gensdarmes
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-07-30'
 gutenberg_type: Text
