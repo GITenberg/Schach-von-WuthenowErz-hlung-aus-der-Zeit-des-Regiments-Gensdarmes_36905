@@ -1,0 +1,38 @@
+_repo: Schach-von-WuthenowErz-hlung-aus-der-Zeit-des-Regiments-Gensdarmes_36905
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fontane, Theodor
+    aliases:
+    - Fontane, Teodor
+    - Fontane, Henri Théodore
+    - Fontane, Henri Theodore
+    birthdate: 1819
+    deathdate: 1898
+    gutenberg_agent_id: '1765'
+    url: http://www.gutenberg.org/2009/agents/1765
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Theodor_Fontane
+    - http://de.wikipedia.org/wiki/Theodor_Fontane
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36905'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Fiction'
+- !lcsh 'Soldiers -- Fiction'
+title: 'Schach von Wuthenow
+
+  Erzählung aus der Zeit des Regiments Gensdarmes'
+url: http://www.gutenberg.org/ebooks/36905
